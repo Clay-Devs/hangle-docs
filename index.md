@@ -8,5 +8,9 @@
 ### Terms n stuff
 - Soon
 
+### Support
+- Support forum (soon)
+- Support Hangle community (soon)
+
 ### Back to Hangle?
 - [Hangle.me](//hangle.me)
