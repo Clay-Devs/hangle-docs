@@ -5,8 +5,9 @@
 ### Use our API for your next project!
 - [Developers](//docs.hangle.me/docs/developers)
 
-### Terms n stuff
-- Soon
+### Safety
+- [Terms of Service](/docs/safety/terms)
+- [Privacy policy](/docs/safety/privacy)
 
 ### Support
 - Support forum (soon)
