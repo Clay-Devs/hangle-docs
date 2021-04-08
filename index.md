@@ -1,17 +1,11 @@
-# Table of contents
-### New here?
-- [Getting started with Hangle](//docs.hangle.me/docs/getting-started)
 
-### Use our API for your next project!
-- [Developers](//docs.hangle.me/docs/developers)
+---
+layout: default
+title: Welcome
+nav_order: 1
+description: "Welcome to the official Hangle documentation"
+permalink: /
+---
 
-### Safety
-- [Terms of Service](/docs/safety/terms)
-- [Privacy policy](/docs/safety/privacy)
-
-### Support
-- Support forum (soon)
-- Support Hangle community (soon)
-
-### Back to Hangle?
-- [Hangle.me](//hangle.me)
+# Welcome to Hangle's official documentation
+Use a tab on the side to get to what you are looking for, or use the search function.
