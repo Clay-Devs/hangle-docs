@@ -15,3 +15,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 title: Hangle Documentation 
 description: Documentation on the Hangle chat platform!
+color_scheme: dark
+
